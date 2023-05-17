@@ -24,4 +24,4 @@ This component represents the bottom tab navigator. It consists of two screens: 
 1. Clone the project
 2. Add dependencies via a package manager (e.g yarn use the yarn command)
 3. Run expo start
-4. Type a to run on android device or i to ios
+4. Type "a" to run on android device or "i" to ios
