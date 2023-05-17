@@ -17,3 +17,11 @@ This component is a screen that displays the screenName received as a parameter.
 
 ## TabNavigator
 This component represents the bottom tab navigator. It consists of two screens: Home (using the HomeStack component) and Contact. The header is hidden for all screens within the tab navigator.
+
+
+# Execution 
+
+1. Clone the project
+2. Add dependencies via a package manager (e.g yarn use the yarn command)
+3. Run expo start
+4. Type a to run on android device or i to ios
