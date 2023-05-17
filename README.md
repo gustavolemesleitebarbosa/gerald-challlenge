@@ -2,7 +2,7 @@
 
 This app is a React Native application that uses the React Navigation library for navigation and routing. It creates a multi-level navigation structure with a bottom tab navigator and a drawer navigator.
 
-#Navigation 
+# Navigation 
 The app sets up the necessary navigators using the createDrawerNavigator, createBottomTabNavigator, and createStackNavigator functions from the React Navigation library. Three navigators are created: Drawer, Tab, and Stack.
 
 ## HomeStack
